@@ -3,7 +3,7 @@
 import chalk from "chalk";
 import inquirer from "inquirer";
 
-console.log(chalk.bgCyanBright("\n\t TO-DO LIST\n\t"));
+console.log(chalk.cyan("\n\t TO-DO LIST\n\t"));
 
 let todos = [];
 let condition = true;
