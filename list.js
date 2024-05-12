@@ -1,4 +1,4 @@
-#!/user/bin/env node
+#! /usr/bin/env node
 import chalk from "chalk";
 import inquirer from "inquirer";
 console.log(chalk.bgCyanBright("\n\t TO-DO LIST\n\t"));
