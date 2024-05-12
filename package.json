@@ -1,9 +1,10 @@
 {
-  "name": "todo-list_code_by_ashi",
-  "version": "1.0.0",
+  "name": "todo-list_by_ashi",
+  "version": "1.0.1",
   "description": "",
   "main": "list.js",
   "type": "module",
+  "bin": "list.js",
   "publishConfig": {
     "access": "public"
   },
